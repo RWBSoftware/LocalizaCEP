@@ -1,58 +1,57 @@
-````markdown
-# 📍 LocalizaCEP  
+# 📍 LocalizaCEP
 
-O **LocalizaCEP** é um aplicativo desenvolvido em **C# (Windows Forms)** que utiliza uma **API de consulta de CEP** para buscar informações de endereço de forma rápida e prática.  
-
-- 🏠 Tela Principal
-
-<img width="397" height="460" alt="{6F506AEE-CF4D-45FC-81C6-A7A8CEE5F9D2}" src="https://github.com/user-attachments/assets/ecb66062-e6cd-48cb-a337-0e3126df09e9" />
-
-## 🚀 Funcionalidades  
-- 🔍 **Buscar CEP**: Consulta instantânea de CEPs em todo o Brasil.  
-- 🧹 **Limpar dados**: Reseta os campos para uma nova busca.  
-- 📋 **Copiar endereço**: Copia as informações encontradas para a área de transferência.  
-- 🎨 **Interface moderna e intuitiva**: Layout simples e amigável.  
+O **LocalizaCEP** é um software desenvolvido para **consultar e localizar endereços em todo o Brasil a partir do CEP**.
+O sistema tem como objetivo **facilitar a busca de endereços de forma rápida, prática e precisa**, sendo ideal para uso pessoal ou profissional.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas  
-- **C# (.NET Framework)**
-- **Windows Forms**
-- **API de CEP** (ex: [ViaCEP](https://viacep.com.br/))  
-- **JSON.NET** (para manipulação de dados JSON da API)  
+## 🖥️ Telas do Sistema
+
+* 🔍 **Tela de Resultado**
+
+  *<img width="397" height="460" alt="image" src="https://github.com/user-attachments/assets/23642410-99a8-4ba3-af53-0cc69fdccfaa" />
+
+  
+---
+
+## ⚙️ Funcionalidades
+
+✅ Consulta de endereço a partir de um CEP válido
+✅ Validação automática de CEP digitado
+✅ Exibição de dados como: Rua, Bairro, Cidade e Estado
+✅ Função de copiar endereço formatado
+✅ Interface simples, rápida e intuitiva
 
 ---
 
-## 🔧 Como Executar  
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/SeuUsuario/LocalizaCEP.git
-````
+## 🚀 Tecnologias Utilizadas
 
-2. Abra o projeto no **Visual Studio**.
-3. Restaure os pacotes NuGet (caso necessário).
-4. Compile e execute! 🚀
+* 🧠 **C# (.NET Framework)**
+* 🖥️ **Windows Forms**
+* 🌐 **API ViaCEP** (para consultas de CEP)
 
 ---
 
-## 📦 Build e Distribuição
+## 📋 Pré-requisitos
 
-* Utilize o **Inno Setup** para gerar o instalador (.exe).
-* A aplicação roda em qualquer Windows com **.NET Framework 4.8 ou superior**.
-
----
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Faça um fork do projeto e envie um PR com melhorias ou correções.
+* 💻 **Windows 10 ou superior**
+* 📦 **.NET Framework 4.7 ou superior**
+* 🌐 **Conexão com a internet** (necessária para as consultas)
 
 ---
 
-🧑‍💻 **Desenvolvido por RWB Software**
+## 🔧 Como usar
 
-👨‍💻 **Desenvolvedor: Kauã Castro**
+1. Abra o aplicativo **LocalizaCEP**
+2. Digite um CEP válido (apenas números)
+3. Clique em **Buscar**
+4. Visualize o endereço completo e utilize a função **Copiar Endereço** se necessário
 
-📩 **Em caso de dúvidas, sugestões de melhorias ou propostas de parceria, entre em contato:**
-✉️ **[RWBSoftwares@gmail.com](mailto:RWBSoftwares@gmail.com)**
+---
 
-```
+## 🧑‍💻 Desenvolvido por **RWB Software**
+
+👨‍💻 Desenvolvedor: **Kauã Castro**
+
+📩 Em caso de dúvidas, sugestões de melhorias ou propostas de parceria, entre em contato:
+**✉️ [RWBSoftwares@gmail.com](mailto:RWBSoftwares@gmail.com)**
