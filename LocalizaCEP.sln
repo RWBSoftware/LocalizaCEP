@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizaCEP", "LocalizaCEP\LocalizaCEP.csproj", "{FB69E2A6-88B0-4C0D-BAED-88ACBAC32EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB69E2A6-88B0-4C0D-BAED-88ACBAC32EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB69E2A6-88B0-4C0D-BAED-88ACBAC32EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB69E2A6-88B0-4C0D-BAED-88ACBAC32EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB69E2A6-88B0-4C0D-BAED-88ACBAC32EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E49CA10E-5CBA-4A3A-969D-1319F792FC55}
+	EndGlobalSection
+EndGlobal

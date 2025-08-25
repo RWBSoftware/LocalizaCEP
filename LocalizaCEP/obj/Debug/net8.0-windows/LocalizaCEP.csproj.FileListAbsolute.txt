@@ -1,0 +1,16 @@
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\bin\Debug\net8.0-windows\LocalizaCEP.exe
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\bin\Debug\net8.0-windows\LocalizaCEP.deps.json
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\bin\Debug\net8.0-windows\LocalizaCEP.runtimeconfig.json
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\bin\Debug\net8.0-windows\LocalizaCEP.dll
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\bin\Debug\net8.0-windows\LocalizaCEP.pdb
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\obj\Debug\net8.0-windows\LocalizaCEP.Form1.resources
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\obj\Debug\net8.0-windows\LocalizaCEP.csproj.GenerateResource.cache
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\obj\Debug\net8.0-windows\LocalizaCEP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\obj\Debug\net8.0-windows\LocalizaCEP.AssemblyInfoInputs.cache
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\obj\Debug\net8.0-windows\LocalizaCEP.AssemblyInfo.cs
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\obj\Debug\net8.0-windows\LocalizaCEP.csproj.CoreCompileInputs.cache
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\obj\Debug\net8.0-windows\LocalizaCEP.dll
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\obj\Debug\net8.0-windows\refint\LocalizaCEP.dll
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\obj\Debug\net8.0-windows\LocalizaCEP.pdb
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\obj\Debug\net8.0-windows\LocalizaCEP.genruntimeconfig.cache
+C:\Users\kauac\OneDrive\Documentos\Projetos\LocalizaCEP\LocalizaCEP\obj\Debug\net8.0-windows\ref\LocalizaCEP.dll
