@@ -9,7 +9,7 @@ O sistema tem como objetivo **facilitar a busca de endereços de forma rápida, 
 
 * 🔍 **Tela de Resultado**
 
-  <img width="495" height="618" alt="{53E8E3E4-807E-4DC2-AB3D-CD88021AF2AA}" src="https://github.com/user-attachments/assets/46614ce8-e50e-433d-af87-d43aa7089d5e" />
+  <img width="494" height="619" alt="{5B2364DB-6059-4F48-B991-2520CA6F6C3D}" src="https://github.com/user-attachments/assets/4a9d0a20-a1f4-41c0-83c6-e0d71fd7d131" />
   
 ---
 
