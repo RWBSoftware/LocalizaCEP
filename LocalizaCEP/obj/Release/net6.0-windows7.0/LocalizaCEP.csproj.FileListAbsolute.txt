@@ -1,0 +1,17 @@
+C:\Projetos\LocalizaCEP\LocalizaCEP\bin\Release\net6.0-windows7.0\LocalizaCEP.exe
+C:\Projetos\LocalizaCEP\LocalizaCEP\bin\Release\net6.0-windows7.0\LocalizaCEP.deps.json
+C:\Projetos\LocalizaCEP\LocalizaCEP\bin\Release\net6.0-windows7.0\LocalizaCEP.runtimeconfig.json
+C:\Projetos\LocalizaCEP\LocalizaCEP\bin\Release\net6.0-windows7.0\LocalizaCEP.dll
+C:\Projetos\LocalizaCEP\LocalizaCEP\bin\Release\net6.0-windows7.0\LocalizaCEP.pdb
+C:\Projetos\LocalizaCEP\LocalizaCEP\obj\Release\net6.0-windows7.0\LocalizaCEP.Form1.resources
+C:\Projetos\LocalizaCEP\LocalizaCEP\obj\Release\net6.0-windows7.0\LocalizaCEP.frmAvaliacao.resources
+C:\Projetos\LocalizaCEP\LocalizaCEP\obj\Release\net6.0-windows7.0\LocalizaCEP.csproj.GenerateResource.cache
+C:\Projetos\LocalizaCEP\LocalizaCEP\obj\Release\net6.0-windows7.0\LocalizaCEP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LocalizaCEP\LocalizaCEP\obj\Release\net6.0-windows7.0\LocalizaCEP.AssemblyInfoInputs.cache
+C:\Projetos\LocalizaCEP\LocalizaCEP\obj\Release\net6.0-windows7.0\LocalizaCEP.AssemblyInfo.cs
+C:\Projetos\LocalizaCEP\LocalizaCEP\obj\Release\net6.0-windows7.0\LocalizaCEP.csproj.CoreCompileInputs.cache
+C:\Projetos\LocalizaCEP\LocalizaCEP\obj\Release\net6.0-windows7.0\LocalizaCEP.dll
+C:\Projetos\LocalizaCEP\LocalizaCEP\obj\Release\net6.0-windows7.0\refint\LocalizaCEP.dll
+C:\Projetos\LocalizaCEP\LocalizaCEP\obj\Release\net6.0-windows7.0\LocalizaCEP.pdb
+C:\Projetos\LocalizaCEP\LocalizaCEP\obj\Release\net6.0-windows7.0\LocalizaCEP.genruntimeconfig.cache
+C:\Projetos\LocalizaCEP\LocalizaCEP\obj\Release\net6.0-windows7.0\ref\LocalizaCEP.dll
