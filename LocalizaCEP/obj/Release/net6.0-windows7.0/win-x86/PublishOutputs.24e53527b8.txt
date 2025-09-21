@@ -1,7 +1,0 @@
-C:\Projetos\LocalizaCEP\LocalizaCEP\bin\Release\net6.0-windows7.0\publish\win-x86\LocalizaCEP.pdb
-C:\Projetos\LocalizaCEP\LocalizaCEP\bin\Release\net6.0-windows7.0\publish\win-x86\D3DCompiler_47_cor3.dll
-C:\Projetos\LocalizaCEP\LocalizaCEP\bin\Release\net6.0-windows7.0\publish\win-x86\PenImc_cor3.dll
-C:\Projetos\LocalizaCEP\LocalizaCEP\bin\Release\net6.0-windows7.0\publish\win-x86\PresentationNative_cor3.dll
-C:\Projetos\LocalizaCEP\LocalizaCEP\bin\Release\net6.0-windows7.0\publish\win-x86\vcruntime140_cor3.dll
-C:\Projetos\LocalizaCEP\LocalizaCEP\bin\Release\net6.0-windows7.0\publish\win-x86\wpfgfx_cor3.dll
-C:\Projetos\LocalizaCEP\LocalizaCEP\bin\Release\net6.0-windows7.0\publish\win-x86\LocalizaCEP.exe

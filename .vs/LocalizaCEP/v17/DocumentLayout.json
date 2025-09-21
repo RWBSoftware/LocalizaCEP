@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos\\LocalizaCEP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB69E2A6-88B0-4C0D-BAED-88ACBAC32EAE}|LocalizaCEP\\LocalizaCEP.csproj|c:\\projetos\\localizacep\\localizacep\\view\\frmavaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB69E2A6-88B0-4C0D-BAED-88ACBAC32EAE}|LocalizaCEP\\LocalizaCEP.csproj|solutionrelative:localizacep\\view\\frmavaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB69E2A6-88B0-4C0D-BAED-88ACBAC32EAE}|LocalizaCEP\\LocalizaCEP.csproj|c:\\projetos\\localizacep\\localizacep\\view\\frmavaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB69E2A6-88B0-4C0D-BAED-88ACBAC32EAE}|LocalizaCEP\\LocalizaCEP.csproj|solutionrelative:localizacep\\view\\frmavaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB69E2A6-88B0-4C0D-BAED-88ACBAC32EAE}|LocalizaCEP\\LocalizaCEP.csproj|c:\\projetos\\localizacep\\localizacep\\view\\frmavaliacao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB69E2A6-88B0-4C0D-BAED-88ACBAC32EAE}|LocalizaCEP\\LocalizaCEP.csproj|solutionrelative:localizacep\\view\\frmavaliacao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAvaliacao.cs",
+              "DocumentMoniker": "C:\\Projetos\\LocalizaCEP\\LocalizaCEP\\View\\frmAvaliacao.cs",
+              "RelativeDocumentMoniker": "LocalizaCEP\\View\\frmAvaliacao.cs",
+              "ToolTip": "C:\\Projetos\\LocalizaCEP\\LocalizaCEP\\View\\frmAvaliacao.cs",
+              "RelativeToolTip": "LocalizaCEP\\View\\frmAvaliacao.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:01:41.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAvaliacao.cs [Projeto]",
+              "DocumentMoniker": "C:\\Projetos\\LocalizaCEP\\LocalizaCEP\\View\\frmAvaliacao.cs",
+              "RelativeDocumentMoniker": "LocalizaCEP\\View\\frmAvaliacao.cs",
+              "ToolTip": "C:\\Projetos\\LocalizaCEP\\LocalizaCEP\\View\\frmAvaliacao.cs [Projeto]",
+              "RelativeToolTip": "LocalizaCEP\\View\\frmAvaliacao.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:01:30.069Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAvaliacao.Designer.cs",
+              "DocumentMoniker": "C:\\Projetos\\LocalizaCEP\\LocalizaCEP\\View\\frmAvaliacao.Designer.cs",
+              "RelativeDocumentMoniker": "LocalizaCEP\\View\\frmAvaliacao.Designer.cs",
+              "ToolTip": "C:\\Projetos\\LocalizaCEP\\LocalizaCEP\\View\\frmAvaliacao.Designer.cs",
+              "RelativeToolTip": "LocalizaCEP\\View\\frmAvaliacao.Designer.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAhwHUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:01:16.905Z",
+              "EditorCaption": ""
             }
           ]
         }
